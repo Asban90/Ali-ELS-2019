@@ -1,1 +1,1 @@
-first training assingment
+first training assingment using git to practice
